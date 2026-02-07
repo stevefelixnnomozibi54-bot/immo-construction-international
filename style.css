@@ -168,3 +168,12 @@ footer {
   text-align: center;
   font-weight: 600;
 }
+.btn-whatsapp {
+  display: inline-block;
+  background: #25D366;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+}
